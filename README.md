@@ -29,7 +29,7 @@ This project uses the Gemini API for generating chatbot responses. To use the AP
 1. Obtain an API key from Google Cloud.
 2. Replace the API_KEY in the script.js file with your own API key.
 
-##Contributing
+## Contributing
 
 - Fork the repository.
 - Create a new branch (git checkout -b feature-branch).
